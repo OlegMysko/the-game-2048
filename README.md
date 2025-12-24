@@ -1,7 +1,7 @@
 
 # 2048 game
 - ua [Українська версія](README.ua.md)
- - [DEMO LINK](https://OlegMysko.github.io/js_2048_game/)
+ - [DEMO LINK](https://olegmysko.github.io/the-game-2048/)
 
 
 ## Description
